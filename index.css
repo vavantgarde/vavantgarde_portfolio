@@ -8,6 +8,16 @@
   .text h2{
     font-size: 0.5em;
   }
+  .menu a{
+  color:rgb(231, 255, 203);
+  font-size: 2 em;
+}
+.menu a:hover{
+  background:red;
+  color: black;
+  transform: scale(2) translateY(-15px);
+}
+  
 }
 @media(
 *{
