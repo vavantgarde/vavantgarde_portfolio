@@ -1,4 +1,7 @@
 @media(max-width: 480px){
+   .vid-showcase,.vid-showcase header{
+    padding: 40px;
+  }
   .text h1{
     font-size: 1em;
   }
