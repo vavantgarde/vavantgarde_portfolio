@@ -1,4 +1,4 @@
-@media(max-width: 991px){
+@media(max-width: 480px){
   .vid-showcase,.vid-showcase header{
     padding: 40px;
   }
@@ -9,6 +9,7 @@
     font-size: 2em;
   }
 }
+@media(
 *{
   box-sizing:border-box;
   margin: 0%;
